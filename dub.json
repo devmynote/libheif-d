@@ -1,0 +1,16 @@
+{
+	"name": "libheif-d",
+	"description": "Deimos bindings for libheif.",
+	"homepage": "https://github.com/strukturag/libheif",
+	"authors": [
+		"devmynote"
+	],
+	"license": "BSD 2-clause",
+	"targetType": "sourceLibrary",
+	"sourcePaths" : [
+		"deimos"
+	],
+	"importPaths" : [
+		"deimos"
+	]
+}
